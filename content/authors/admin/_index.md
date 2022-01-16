@@ -1,6 +1,7 @@
 ---
 title: Jack Russell
 role: PhD Student in Statistics
+avatar_filename: 2-face.jpg
 bio: My research interests include distributed robotics, mobile computing and
   programmable matter.
 interests:

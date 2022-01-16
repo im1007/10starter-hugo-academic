@@ -1,6 +1,6 @@
 ---
-title: Dr. Jack Russell
-role: Professor of Artificial Intelligence
+title: Jack Russell
+role: PhD Student in Statistics
 bio: My research interests include distributed robotics, mobile computing and
   programmable matter.
 interests:

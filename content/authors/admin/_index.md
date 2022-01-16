@@ -24,19 +24,19 @@ social:
     icon_pack: fab
     link: https://www.linkedin.com/
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: Columbia University
+    url: https://stat.columbia.edu/
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+    - course: PhD in Statistics
+      institution: Columbia University
+      year: 2022
+    - course: M.Sc. in Mathematical Engineering
+      institution: Politecnico di Torino
+      year: 2016
+    - course: B.Sc. in Statistics
+      institution: Sapienza Università di Roma
+      year: 2013
 email: ""
 superuser: true
 highlight_name: true
